@@ -10,10 +10,10 @@
 
 <img align="right" alt="A quick brown fox jumps over a lazy dog" src="./images/a-quick-brown-fox.gif" width=25% height=45% style="padding-left: 10px;"/>
 <ul>
-    <li>👨‍💻&nbsp; <b>Name:</b> Phuc (Benjamin) Nguyen (a.k.a <i><strong style="color:magenta;">techmoocher</strong></i>).</li><br>
-    <li>🪪&nbsp; <b>Title: </b> High school senior @ VNUHCM High School for the Gifted.</li><br>
-    <li>💖&nbsp; <b>Hobbies: </b> Running 🏃‍♂️, Cycling 🚴‍♂️, Piano 🎹, Reading 📖.</li><br>
-    <li>👥&nbsp; <b>Social media: </b> <a href="www.instagram.com/ndvphuc_27/" target="_blank">ndvphuc_27</a> (Instagram) or <a href="www.facebook.com/ndvphuc27/" target="_blank">Phuc Nguyen</a> (Facebook)</li>
+    <li>👨‍💻&nbsp; <b>Name:</b> Phuc (Benjamin) Nguyen (a.k.a <i><strong style="color:magenta;">techmoocher</strong></i>).</li>
+    <li>🪪&nbsp; <b>Title: </b> High school senior @ VNUHCM High School for the Gifted.</li>
+    <li>💖&nbsp; <b>Hobbies: </b> Running 🏃‍♂️, Cycling 🚴‍♂️, Piano 🎹, Reading 📖.</li>
+    <li>👥&nbsp; <b>Social media: </b> <a href="https://www.instagram.com/ndvphuc_27/" target="_blank">ndvphuc_27</a> (Instagram) or <a href="https://www.facebook.com/ndvphuc27/" target="_blank">Phuc Nguyen</a> (Facebook)</li>
 </ul>
 <br>
 <p>Hi there, it's me, <strong>techmoocher</strong> the guy who <b><i>moocher</i></b> the tech world. I'm thrilled to delve deeper into the field of computers and create innovative interdisciplinary solutions that can positively impact people's lives.</p>
