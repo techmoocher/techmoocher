@@ -32,7 +32,7 @@
 <br>
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30%&duration=2000&pause=200&color=FDB2DA&center=true&vCenter=true&multiline=true&width=1000&height=2000&lines=Impact+the+world;one+line+of+code+at+a+time." alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30%&duration=2000&pause=200&color=FDB2DA&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=Impact+the+world+one+line+of+code+at+a+time." alt="Typing SVG"/>
     </a>
 </div>
 
