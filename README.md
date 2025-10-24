@@ -6,7 +6,9 @@
     </a>
 </div>
 <br>
-<img align="right" alt="A quick brown fox jumps over a lazy dog" src="./images/a-quick-brown-fox.gif" width=35% height=45%/>
+
 ## Something about me! 🦊
+
+<img align="right" alt="A quick brown fox jumps over a lazy dog" src="./images/a-quick-brown-fox.gif" width=25% height=35%/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FDB2DA&height=80&section=footer"/>
