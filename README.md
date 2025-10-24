@@ -11,7 +11,7 @@
 
 <img align="right" alt="A quick brown fox jumps over a lazy dog" src="./images/a-quick-brown-fox.gif" width=25% height=35%/>
 <ul>
-    <li>👨‍💻&nbsp; <b>Name:</b> Phuc (Benjamin) Nguyen (a.k.a <i><strong style="color: #FDB2DA;">techmoocher</strong></i>).</li><br>
+    <li>👨‍💻&nbsp; <b>Name:</b> Phuc (Benjamin) Nguyen (a.k.a <i><strong style="color:magenta;">techmoocher</strong></i>).</li><br>
     <li>🪪&nbsp; <b>Title: </b> High school senior @ VNUHCM High School for the Gifted.</li><br>
     <li>I am actively involved in sports.</li><br>
     <li>I am always learning something new.</a><br>
