@@ -17,9 +17,7 @@
     <li>👥&nbsp; <b>Social media: </b> <a href="www.instagram.com/ndvphuc_27/" target="_blank">ndvphuc_27</a> (Instagram) or <a href="www.facebook.com/ndvphuc27/" target="_blank">Phuc Nguyen</a> (Facebook)</li><br>
 </ul>
 <br>
-
-### BIO
-<p>Hi, it's me, the guy who <b><i>moocher</i></b> the tech world with problem-solving, creativity, and innovation.>/p>
+<p>Hi there, it's me, <strong>techmoocher</strong> the guy who <b><i>moocher</i></b> the tech world. I'm thrilled to delve deeper into the field of computers and create innovative interdisciplinary solutions that can positively impact people's lives.</p>
 <p>Find out more about at <b><a href="www.techmoocher.com" target="_blank">www.techmoocher.com</a></b></p>
 
 <!-- <h3>Me doing my hobbies :)</h3>
