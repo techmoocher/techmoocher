@@ -17,11 +17,11 @@
 </ul>
 
 ### Me doing my hobbies :)
-<div align="center">
-    <img alt="Tom running (Tom&Jerry)" src="./images/running.gif" width="50px"/>
-    <img alt="Riding bicycle" src="./images/cycling.gif" width="50px"/>
-    <img alt="Piano playing" src="./images/piano.gif" width="50px"/>
-    <img alt="Snoopy reading and laughing" src="./images/reading.gif" width="50px"/>
+<div>
+    <img alt="Tom running (Tom&Jerry)" src="./images/running.gif" width="200px" style="padding: 10px;"/>
+    <img alt="Riding bicycle" src="./images/cycling.gif" width="200px" style="padding: 10px;"/>
+    <img alt="Piano playing" src="./images/piano.gif" width="200px" style="padding: 10px;"/>
+    <img alt="Snoopy reading and laughing" src="./images/reading.gif" width="200px" style="padding: 10px;"/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FDB2DA&height=80&section=footer"/>
