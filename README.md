@@ -13,9 +13,7 @@
 <ul>
     <li>👨‍💻&nbsp; <b>Name:</b> Phuc (Benjamin) Nguyen (a.k.a <i><strong style="color:magenta;">techmoocher</strong></i>).</li><br>
     <li>🪪&nbsp; <b>Title: </b> High school senior @ VNUHCM High School for the Gifted.</li><br>
-    <li>💖&nbsp; <b>Hobbies: </b> Running 🏃‍♂️, Cycling 🚴‍♂️, Piano 🎹, Reading ![SnopiLendoSnoopyGIF (2)](https://github.com/user-attachments/assets/92a4e0ad-d8d0-46fa-88bd-3d67ba3e3f4c)
-.</li><br>
-    <li>I am always learning something new.</a><br>
+    <li>💖&nbsp; <b>Hobbies: </b> Running <img alt="Tom running (Tom&Jerry)" src="./images/running.gif" width="30px"/>, Piano <img alt="Piano playing" src="./images/piano.gif" width="30px"/>, Reading <img alt="Snoopy reading and laughing" src="./images/reading.gif" width="30px"/>.</li>
 </ul>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FDB2DA&height=80&section=footer"/>
