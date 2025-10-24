@@ -15,7 +15,8 @@
     <li>🪪&nbsp; <b>Title: </b> High school senior @ VNUHCM High School for the Gifted.</li><br>
     <li>💖&nbsp; <b>Hobbies: </b> Running 🏃‍♂️, Cycling 🚴‍♂️, Piano 🎹, Reading 📖.</li><br>
     <li>🔗&nbsp; <b>More about me at: </b><a href="www.techmoocher.com" target="_blank">www.techmoocher.com</a></li>
-    <li>👥&nbsp; <b>Social media: </b> <a href="www.instagram.com/ndvphuc_27/" target="_blank">ndvphuc_27</a> (Instagram) or <a href="www.facebook.com/ndvphuc27/" target="_blank">Phuc Nguyen</a> (Facebook)</li>
+    <li>👥&nbsp; <b>Social media: </b> <a href="www.instagram.com/ndvphuc_27/" target="_blank">ndvphuc_27</a> (Instagram) or <a href="www.facebook.com/ndvphuc27/" target="_blank">Phuc Nguyen</a> (Facebook)</li><br>
+     <li>🔗&nbsp; <b>Find out more: </b><a href="www.techmoocher.com" target="_blank">www.techmoocher.com</a></li>
 </ul>
 
 ### Me doing my hobbies :)
