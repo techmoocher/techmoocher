@@ -22,7 +22,7 @@
 ### Me doing my hobbies :)
 <div>
     <img alt="Tom running (Tom&Jerry)" src="./images/running.gif" width="120px"/>
-    <img alt="Riding bicycle" src="./images/cycling.gif" width="120px"/
+    <img alt="Riding bicycle" src="./images/cycling.gif" width="120px"/>
     <img alt="Piano playing" src="./images/piano.gif" width="120px"/>
     <img alt="Snoopy reading and laughing" src="./images/reading.gif" width="120px"/>
 </div>
