@@ -22,6 +22,8 @@
 <p>Hi there, it's me, <strong>techmoocher</strong> the guy who <b><i>moocher</i></b> the tech world. I'm thrilled to delve deeper into the field of computers and create innovative interdisciplinary solutions that can positively impact people's lives.</p>
 <p>Find out more about me at <b><a href="www.techmoocher.com" target="_blank">www.techmoocher.com</a></b>.</p>
 
+---
+
 <!-- <h3>Me doing my hobbies :)</h3>
 <div>
     <img alt="Tom running (Tom&Jerry)" src="./images/running.gif" width="120px"/>
