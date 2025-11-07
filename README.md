@@ -19,7 +19,7 @@
     <li>👥&nbsp; <b>Social media: </b> <a href="https://www.instagram.com/ndvphuc_27/" target="_blank">ndvphuc_27</a> (Instagram) or <a href="https://www.facebook.com/ndvphuc27/" target="_blank">Phuc Nguyen</a> (Facebook)</li>
 </ul>
 <br>
-<p>Hi there, it's me, <strong>techmoocher</strong> the guy who <b><i>moocher</i></b> the tech world. I'm thrilled to delve deeper into the field of computers and create innovative interdisciplinary solutions that can positively impact people's lives.</p>
+<p>Hi there, it's me, <strong>techmoocher</strong> the guy who <b><i>mooch</i></b> the tech world. I'm thrilled to delve deeper into the field of computers and create powerful human-centric innovations that can positively impact people's lives.</p>
 <p>Find out more about me at <b><a href="www.techmoocher.com" target="_blank">www.techmoocher.com</a></b>.</p>
 <br>
 
