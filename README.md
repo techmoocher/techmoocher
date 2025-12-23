@@ -1,3 +1,9 @@
+<div align="center">
+    <h1>TECHMOOCHER 🦊</h1>
+</div>
+
+---
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FDB2DA&height=80&section=header"/>
 
 <div align="center">
@@ -32,7 +38,9 @@
     <img alt="Piano playing" src="./images/piano.gif" width="120px"/>
     <img alt="Snoopy reading and laughing" src="./images/reading.gif" width="120px"/>
 </div> -->
+
 <br>
+
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30%&duration=3500&pause=1500&color=FDB2DA&center=true&vCenter=true&width=1000&height=50&lines=Impact+the+world+with+one+line+of+code+at+a+time." alt="Typing SVG"/>
