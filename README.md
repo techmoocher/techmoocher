@@ -4,6 +4,12 @@
 
 ---
 
+<div align="center">
+    <h2>Karu the Fox</h2>
+</div>
+
+---
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FDB2DA&height=80&section=header"/>
 
 <div align="center">
