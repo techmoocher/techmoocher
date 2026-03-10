@@ -25,8 +25,9 @@ style="padding-left: 50px; padding-bottom: 50px;"/>
 <ul>
     <li>👨‍💻&nbsp; <b>Name:</b> Phuc (Benjamin) Nguyen (a.k.a <i><strong style="color:magenta;">techmoocher</strong></i>).</li>
     <li>🪪&nbsp; <b>Title: </b> High school senior @ VNUHCM High School for the Gifted.</li>
-    <li>💖&nbsp; <b>Hobbies: </b> Running 🏃‍♂️, Cycling 🚴‍♂️, Piano 🎹, Reading 📖.</li>
-    <li>👥&nbsp; <b>Social media: </b> <a href="https://www.instagram.com/ndvphuc_27/" target="_blank">ndvphuc_27</a> (Instagram) or <a href="https://www.facebook.com/ndvphuc27/" target="_blank">Phuc Nguyen</a> (Facebook)</li>
+    <li>💖&nbsp; <b>Hobbies: </b> Tinkering , Running 🏃‍♂️, Cycling 🚴‍♂️, Piano 🎹, Reading 📖.</li>
+    <li>👥&nbsp; <b>Social media: </b> <a href="https://www.instagram.com/ndvphuc_27/" target="_blank">ndvphuc_27</a> (Instagram) 
+        or <a href="https://www.facebook.com/ndvphuc27/" target="_blank">Phuc Nguyen</a> (Facebook)</li>
 </ul>
 
 <br>
