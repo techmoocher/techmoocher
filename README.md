@@ -1,10 +1,5 @@
 <div align="center">
     <h1>【 TECHMOOCHER 】</h1>
-</div>
-
----
-
-<div align="center">
     <h2>🦊 Karu the Fox 🦊</h2>
 </div>
 
