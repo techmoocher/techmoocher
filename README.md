@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>TECHMOOCHER 🦊</h1>
+    <h1>【🦊 TECHMOOCHER 🦊】</h1>
 </div>
 
 ---
@@ -16,17 +16,24 @@
 
 ## ABOUT ME 🦊
 
-<img align="right" alt="A quick brown fox jumps over a lazy dog" src="./images/a-quick-brown-fox.gif" width=30% height=40% style="padding-left: 50px; padding-bottom: 50px;"/>
+<img align="right" alt="A quick brown fox jumps over a lazy dog" src="./images/a-quick-brown-fox.gif" width=30% height=40%
+style="padding-left: 50px; padding-bottom: 50px;"/>
+
 <br>
+
 <ul>
     <li>👨‍💻&nbsp; <b>Name:</b> Phuc (Benjamin) Nguyen (a.k.a <i><strong style="color:magenta;">techmoocher</strong></i>).</li>
     <li>🪪&nbsp; <b>Title: </b> High school senior @ VNUHCM High School for the Gifted.</li>
     <li>💖&nbsp; <b>Hobbies: </b> Running 🏃‍♂️, Cycling 🚴‍♂️, Piano 🎹, Reading 📖.</li>
     <li>👥&nbsp; <b>Social media: </b> <a href="https://www.instagram.com/ndvphuc_27/" target="_blank">ndvphuc_27</a> (Instagram) or <a href="https://www.facebook.com/ndvphuc27/" target="_blank">Phuc Nguyen</a> (Facebook)</li>
 </ul>
+
 <br>
-<p>Hi there, it's me, <strong>techmoocher</strong> the guy who <b><i>mooch</i></b> the tech world. I'm thrilled to delve deeper into the field of computers and create powerful human-centric innovations that can positively impact people's lives.</p>
-<p>Find out more about me at <b><a href="www.techmoocher.com" target="_blank">www.techmoocher.com</a></b>.</p>
+
+<p>Hi there, it's me, <strong>techmoocher</strong> the guy who <b><i>mooch</i></b> the tech world. I'm thrilled to delve deeper
+    into the field of computers and create powerful human-centric innovations that can positively impact people's lives.</p>
+<p>Find out more about me at <b><a href="https://www.techmoocher.com/" target="_blank">www.techmoocher.com</a></b>.</p>
+
 <br>
 
 ---
