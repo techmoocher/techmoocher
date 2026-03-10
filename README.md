@@ -1,11 +1,11 @@
 <div align="center">
-    <h1>【🦊 TECHMOOCHER 🦊】</h1>
+    <h1>【 TECHMOOCHER 】</h1>
 </div>
 
 ---
 
 <div align="center">
-    <h2>Karu the Fox</h2>
+    <h2>🦊 Karu the Fox 🦊</h2>
 </div>
 
 ---
