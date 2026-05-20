@@ -28,7 +28,7 @@ style="padding-left: 50px; padding-bottom: 50px;"/>
     <li>💖&nbsp; <b>Hobbies: </b> Tinkering 🛠️, Running 🏃‍♂️, Cycling 🚴‍♂️, Reading 📖, Piano 🎹.</li>
     <li>👥&nbsp; <b>Social media: </b> <a href="https://www.instagram.com/https.ndvphuc_276/" target="_blank">@ndvphuc_27</a> (Instagram) 
         or <a href="https://www.facebook.com/ndvphuc27/" target="_blank">Phuc Nguyen</a> (Facebook)</li>
-    <li>📃&nbsp; <a href="https://github.com/techmoocher/resume/blob/main/%5BRESUME%5D_Phuc-Benjamin-Nguyen.pdf" target="_blank">View my resume</a></li>
+    <li>📃&nbsp; <b><a href="https://github.com/techmoocher/resume/blob/main/%5BRESUME%5D_Phuc-Benjamin-Nguyen.pdf" target="_blank">View my resume</a></b></li>
 </ul>
 
 <br>
