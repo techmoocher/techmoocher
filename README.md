@@ -35,9 +35,9 @@ I'm currently leveling up my skills in Java and C and actively seeking a summer 
 
 <br>
 
-<p>Hi there, it's me, <strong>techmoocher</strong>, the guy who <b><i>mooch</i></b> the tech world. I'm thrilled to 
-    delve deeper into the field of computers and create powerful human-centric technological solutions that can 
-    positively impact people's lives.</p>
+<p>Hi there, it's me, <strong>techmoocher</strong>, the guy who <b><i>mooch</i></b> the tech world. 
+    I'm thrilled to delve deeper into the field of computers and create powerful human-centric 
+    technological solutions that positively impacts people's lives.</p>
 <p>Find out more about me at <b><a href="https://www.techmoocher.com/" target="_blank">www.techmoocher.com</a></b>.</p>
 
 <br>
