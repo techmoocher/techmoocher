@@ -5,11 +5,11 @@
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FDB2DA&height=80&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FDB2DA&height=80&section=header" />
 
 <div align="center">
     <a href="https://git.io/typing-svg" target="_blank">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45%&duration=3500&pause=200&color=FDB2DA&center=true&vCenter=true&width=800&height=50%&lines=Hello+there!;It's+me,+techmoocher!.;Welcome+to+my+profile!" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45%&duration=3500&pause=200&color=FDB2DA&center=true&vCenter=true&width=800&height=50%&lines=Hello+there!;It's+me,+techmoocher!.;Welcome+to+my+profile!" alt="Typing SVG" />
     </a>
 </div>
 
@@ -19,8 +19,8 @@ Hi, I'm **Benjamin**, aka *techmoocher*, and I'm a BSCS Freshman passionate abou
 I'm currently leveling up my skills in Java and C and actively seeking a summer internship (especially in summer 2027) to gain hands-on experience.
 
 ## ABOUT ME 🦊
-<div align="right">
-    <img align="right" alt="A quick brown fox jumps over a lazy dog" src="./images/a-quick-brown-fox.gif" width=30% height=40% hspace="3em" vspace="2em"/>
+<div align="right" hspace="3em" vspace="2em">
+    <img align="right" alt="A quick brown fox jumps over a lazy dog" src="./images/a-quick-brown-fox.gif" width=30% height=40% />
 </div>
 <br>
 
@@ -50,8 +50,8 @@ I'm currently leveling up my skills in Java and C and actively seeking a summer 
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30%&duration=3500&pause=1500&color=FDB2DA&center=true&vCenter=true&width=1000&height=50&lines=Impact+the+world+with+one+line+of+code+at+a+time." alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30%&duration=3500&pause=1500&color=FDB2DA&center=true&vCenter=true&width=1000&height=50&lines=Impact+the+world+with+one+line+of+code+at+a+time." alt="Typing SVG" />
     </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FDB2DA&height=80&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FDB2DA&height=80&section=footer" />
