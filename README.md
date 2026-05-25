@@ -24,7 +24,7 @@ I'm currently leveling up my skills in Java and C and actively seeking a summer 
 </div>
 <br>
 
-<div align="left">
+<div align="left" hspace="3em" vspace="2em">
 <ul>
     <li>🪪&nbsp; <b>Name:</b> Phuc (Benjamin) Nguyen (a.k.a <i><strong color="magenta">techmoocher</strong></i>).</li>
     <li>💼&nbsp; <b>Title: </b> BSCS Freshman @ Rochester Institute of Technology (RIT).</li>
