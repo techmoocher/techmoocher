@@ -19,14 +19,13 @@ Hi, I'm **Benjamin**, aka *techmoocher*, and I'm a BSCS Freshman passionate abou
 I'm currently leveling up my skills in Java and C and actively seeking a summer internship (especially in summer 2027) to gain hands-on experience.
 
 ## ABOUT ME 🦊
-<div align="right" hspace="3em" vspace="2em">
-    <img align="right" alt="A quick brown fox jumps over a lazy dog" src="./images/a-quick-brown-fox.gif" width=30% height=40% />
-</div>
+
+<img align="right" alt="A quick brown fox jumps over a lazy dog" src="./images/a-quick-brown-fox.gif" width=30% height=40% hspace="40" vspace="10" />
+
 <br>
 
-<div align="left" hspace="3em" vspace="2em">
 <ul>
-    <li>🪪&nbsp; <b>Name:</b> Phuc (Benjamin) Nguyen (a.k.a <i><strong color="magenta">techmoocher</strong></i>).</li>
+    <li>🪪&nbsp; <b>Name:</b> Phuc (Benjamin) Nguyen (a.k.a <i><strong>techmoocher</strong></i>).</li>
     <li>💼&nbsp; <b>Title: </b> BSCS Freshman @ Rochester Institute of Technology (RIT).</li>
     <li>💖&nbsp; <b>Hobbies: </b> Tinkering 🛠️, Running 🏃‍♂️, Cycling 🚴‍♂️, Reading 📖, Piano 🎹.</li>
     <li>👥&nbsp; <b>Social media: </b> <a href="https://www.instagram.com/https.ndvphuc_276/" target="_blank">@ndvphuc_27</a> (Instagram) 
@@ -40,7 +39,6 @@ I'm currently leveling up my skills in Java and C and actively seeking a summer 
     I'm thrilled to delve deeper into the field of computers and create powerful human-centric 
     technological solutions that positively impact people's lives.</p>
 <p>Find out more about me at <b><a href="https://www.techmoocher.com/" target="_blank">www.techmoocher.com</a></b>.</p>
-</div>
 
 <br>
 
