@@ -1,5 +1,3 @@
-# Hello there 👋
-
 <div align="center">
     <h1>【 TECHMOOCHER 】</h1>
     <h2>🦊 Karu the Fox 🦊</h2>
@@ -16,6 +14,9 @@
 </div>
 
 ---
+
+Hi, I'm **Benjamin**, aka *techmoocher*, and I'm a BSCS Freshman passionate about building technological solutions for real-world problems. 
+I'm currently leveling up my skills in Java and C and actively seeking a summer internship (especially in summer 2027) to gain hands-on experience.
 
 ## ABOUT ME 🦊
 
@@ -43,14 +44,6 @@ style="padding-left: 50px; padding-bottom: 50px;"/>
 <br>
 
 ---
-
-<!-- <h3>Me doing my hobbies :)</h3>
-<div>
-    <img alt="Tom running (Tom&Jerry)" src="./images/running.gif" width="120px"/>
-    <img alt="Riding bicycle" src="./images/cycling.gif" width="120px"/>
-    <img alt="Piano playing" src="./images/piano.gif" width="120px"/>
-    <img alt="Snoopy reading and laughing" src="./images/reading.gif" width="120px"/>
-</div> -->
 
 <br>
 
