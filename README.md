@@ -20,13 +20,12 @@ I'm currently leveling up my skills in Java and C and actively seeking a summer 
 
 ## ABOUT ME 🦊
 
-<img align="right" alt="A quick brown fox jumps over a lazy dog" src="./images/a-quick-brown-fox.gif" width=30% height=40%
-style="padding-left: 50px; padding-bottom: 50px;"/>
+<img align="right" alt="A quick brown fox jumps over a lazy dog" src="./images/a-quick-brown-fox.gif" width=30% height=40% hspace="30" vspace="10"/>
 
 <br>
 
 <ul>
-    <li>🪪&nbsp; <b>Name:</b> Phuc (Benjamin) Nguyen (a.k.a <i><strong style="color:magenta;">techmoocher</strong></i>).</li>
+    <li>🪪&nbsp; <b>Name:</b> Phuc (Benjamin) Nguyen (a.k.a <i><strong color="magenta">techmoocher</strong></i>).</li>
     <li>💼&nbsp; <b>Title: </b> BSCS Freshman @ Rochester Institute of Technology (RIT).</li>
     <li>💖&nbsp; <b>Hobbies: </b> Tinkering 🛠️, Running 🏃‍♂️, Cycling 🚴‍♂️, Reading 📖, Piano 🎹.</li>
     <li>👥&nbsp; <b>Social media: </b> <a href="https://www.instagram.com/https.ndvphuc_276/" target="_blank">@ndvphuc_27</a> (Instagram) 
