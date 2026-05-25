@@ -20,7 +20,7 @@ I'm currently leveling up my skills in Java and C and actively seeking a summer 
 
 ## ABOUT ME 🦊
 
-<img align="right" alt="A quick brown fox jumps over a lazy dog" src="./images/a-quick-brown-fox.gif" width=30% height=40% hspace="-40" vspace="10" />
+<img align="right" alt="A quick brown fox jumps over a lazy dog" src="./images/a-quick-brown-fox.gif" width=30% height=40% />
 
 <br>
 
