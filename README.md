@@ -15,8 +15,8 @@
 
 ---
 
-Hi, I'm **Benjamin**, aka *techmoocher*, and I'm a BSCS Freshman passionate about building technological solutions for real-world problems. 
-I'm currently leveling up my skills in Java and C and actively seeking a summer internship (especially in summer 2027) to gain hands-on experience.
+Hi, I'm **Benjamin**, aka *techmoocher*. I'm a student majoring in Computer Science at Bucknell University with a passion for building technological solutions to solve real-world problems. 
+I'm currently leveling up my skills in Java, Python, and C and actively seeking a research opportunity in summer 2027 to gain hands-on experience in professional settings.
 
 ## ABOUT ME 🦊
 
