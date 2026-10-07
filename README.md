@@ -26,7 +26,7 @@ I'm currently leveling up my skills in Java, Python, and C and actively seeking 
 
 <ul>
     <li>🪪&nbsp; <b>Name:</b> Phuc (Benjamin) Nguyen (a.k.a techmoocher).</li>
-    <li>💼&nbsp; <b>Title: </b> BSCS Freshman @ Rochester Institute of Technology (RIT).</li>
+    <li>💼&nbsp; <b>Title: </b> BSCS @ Bucknell University.</li>
     <li>💖&nbsp; <b>Hobbies: </b> Tinkering 🛠️, Running 🏃‍♂️, Cycling 🚴‍♂️, Reading 📖, Piano 🎹.</li>
     <li>👥&nbsp; <b>Social media: </b> <a href="https://www.instagram.com/https.ndvphuc_276/" target="_blank">@ndvphuc_27</a> (Instagram) 
         or <a href="https://www.facebook.com/ndvphuc27/" target="_blank">Phuc Nguyen</a> (Facebook)</li>
